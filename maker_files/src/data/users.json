@@ -1,0 +1,11 @@
+{
+    "users" : [
+        {
+        "username" : "Citizen Three",
+        "email" : "albeisly@gmail.com",
+        "password" : "cthree123",
+        "avatarUrl" : "",
+        "fileIds" : [1, 2]
+        }
+    ]
+}
